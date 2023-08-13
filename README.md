@@ -12,7 +12,9 @@
 
 - 🌱 I’m currently learning **ReactJS, MYSQL**
 
-- 📫 How to reach me **https://twitter.com/shirole_sairaj**
+- 📫 How to reach me :
+- Twitter :**https://twitter.com/shirole_sairaj**
+- Email   :**saishirole28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
