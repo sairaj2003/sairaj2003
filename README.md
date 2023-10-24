@@ -1,6 +1,6 @@
 ![logo](https://github.com/sairaj2003/sairaj2003/blob/main/README%20Github%20Banner%20(Community)%20(1).png)
 <h1 align="center">Hi 👋, I'm Sairaj Shirole</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Frontend Web Developer</h3>
 
 <img align="right" alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
